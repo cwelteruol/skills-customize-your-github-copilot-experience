@@ -18,4 +18,4 @@ Este projeto é um site educacional para compartilhar tarefas de casa e exercíc
 
 Ao gerar conteúdo para este projeto:
 
-- **Commits convencionais**: Sempre utilize o padrão Conventional Commits ao realizar commits neste projeto, garantindo mensagens claras e padronizadas para facilitar o entendimento e o histórico das alterações.
+- **Commits convencionais**: Sempre utilize o padrão Conventional Commits ao realizar commits neste projeto, garantindo mensagens claras e padronizadas para facilitar o entendimento e o histórico das alterações. 
