@@ -11,8 +11,8 @@ Este projeto é um site educacional para compartilhar tarefas de casa e exercíc
 
 ## Diretrizes do Projeto
 
-- Manter estilo consistente em todas as páginas
-- Manter nomes de arquivos e pastas descritivos e organizados
+- Manter estilo consistente em todas as páginas.
+- Manter nomes de arquivos e pastas descritivos e organizados.
 
 ## Padrões Educacionais
 
